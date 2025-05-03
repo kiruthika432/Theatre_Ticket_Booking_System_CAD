@@ -81,6 +81,10 @@ System Design:
 
 
 
+file:///home/kiruthika/Pictures/Screenshots/Screenshot%20from%202025-05-03%2015-10-24.png
+
+
+
 
 
 
