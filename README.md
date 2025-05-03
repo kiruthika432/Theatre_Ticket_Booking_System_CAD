@@ -81,10 +81,7 @@ System Design:
 
 
 
-file:///home/kiruthika/Pictures/Screenshots/Screenshot%20from%202025-05-03%2015-10-24.png
-
-
-
+![Screenshot from 2025-05-03 15-10-24](https://github.com/user-attachments/assets/d72f44f3-3198-4cd3-b1c8-02c2e1d28aa4)
 
 
 
